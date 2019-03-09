@@ -2358,8 +2358,8 @@ namespace FragmentTest2
 			// aapt resource value: 0x7f080034
 			public const int FUNCTION = 2131230772;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int Food = 2131230898;
+			// aapt resource value: 0x7f0800b1
+			public const int Food = 2131230897;
 			
 			// aapt resource value: 0x7f0800b3
 			public const int History = 2131230899;
@@ -2373,8 +2373,8 @@ namespace FragmentTest2
 			// aapt resource value: 0x7f080037
 			public const int SYM = 2131230775;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int Tourist = 2131230897;
+			// aapt resource value: 0x7f0800b2
+			public const int Tourist = 2131230898;
 			
 			// aapt resource value: 0x7f08009e
 			public const int action0 = 2131230878;
